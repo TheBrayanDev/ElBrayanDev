@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1BrayanBarrera, im on first semestre of systems engineering studying in the UIS - Colombia
 - 👀 I’m interested in video games development
-- 🌱 I’m currently learning C, Python, C++
+- 🌱 I’m currently learning Python, C++ and Unreal Engine 5
 - 💞️ I’m looking to learning the essentials to get me through game development route
 - 📫 You can contact me on 1brayanbarrera@gmail.com
